@@ -5,3 +5,4 @@
 
 $ git status
 X
+i added new thing 

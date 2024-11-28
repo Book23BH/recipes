@@ -1,5 +1,5 @@
 * avocado
-* Lemon
+* Lim
 * Salt
 ## Instructions
 
